@@ -25,98 +25,18 @@
   "requests": [
     {
       "name": "Petro",
-      "phone": "+38(098)227-78-65",
+      "phone": "123777",
       "id": 1
     },
     {
-      "name": "Petro",
-      "phone": "+38(098)227-78-65",
+      "name": "Oleg",
+      "phone": "0678300860",
       "id": 2
     },
     {
-      "name": "ewaw",
-      "phone": "+9086593877",
+      "name": "Nazar",
+      "phone": "0964554772",
       "id": 3
-    },
-    {
-      "name": "adwd",
-      "phone": "65+",
-      "id": 4
-    },
-    {
-      "name": "Які дерева не рекомендується висаджувати восени",
-      "phone": "6864864",
-      "id": 5
-    },
-    {
-      "name": "adda",
-      "phone": "7",
-      "id": 6
-    },
-    {
-      "name": "Petro",
-      "phone": "+38(098)227-78-65",
-      "id": 7
-    },
-    {
-      "name": "Пшик хуєсос",
-      "phone": "00000000000",
-      "id": 8
-    },
-    {
-      "name": "Які дерева не рекомендується висаджувати восени",
-      "phone": "+38(098)227-78-65",
-      "id": 9
-    },
-    {
-      "name": "ннн",
-      "phone": "5555",
-      "id": 10
-    },
-    {
-      "name": "afafaaef",
-      "phone": "555556666",
-      "id": 11
-    },
-    {
-      "name": "pshyk sose dick",
-      "phone": "77777777",
-      "id": 12
-    },
-    {
-      "name": "saefafaaaaaaaa",
-      "phone": "+38 (098) 227 78 65",
-      "id": 13
-    },
-    {
-      "name": "marginal",
-      "phone": "56842",
-      "id": 14
-    },
-    {
-      "name": "jason born",
-      "phone": "62357",
-      "id": 15
-    },
-    {
-      "name": "trymbita",
-      "phone": "00013",
-      "id": 16
-    },
-    {
-      "name": "Loser",
-      "phone": "827351",
-      "id": 17
-    },
-    {
-      "name": "gfessssfsesesefsefsssf77776Petro",
-      "phone": "83444443",
-      "id": 18
-    },
-    {
-      "name": "tyge",
-      "phone": "1",
-      "id": 19
     }
   ]
 }
